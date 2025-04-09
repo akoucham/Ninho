@@ -14,7 +14,7 @@
       
       "BannerNetwork"      : "admob",
       "InterstitialNetwork": "admob",
-      "NativeNetwork"      : "admob",
+      "NativeNetwork"      : "facebook",
       
       "OpenAdNetwork"      : "admob",
       
@@ -31,7 +31,7 @@
         
         "FacebookBanner"      : "IMG_16_9_APP_INSTALL#692961278482629_692963411815749",
         "FacebookInterstitial": "IMG_16_9_APP_INSTALL#692961278482629_692963491815741",
-        "FacebookNative"      : "IMG_16_9_LINK#692961278482629_857100538735368"
+        "FacebookNative"      : "590037202649604_1219479723038679"
 
       }
     },
